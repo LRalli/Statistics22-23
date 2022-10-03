@@ -1,0 +1,17 @@
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\bin\Debug\net6.0-windows\WinFormsAppHomeW1.exe
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\bin\Debug\net6.0-windows\WinFormsAppHomeW1.deps.json
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\bin\Debug\net6.0-windows\WinFormsAppHomeW1.runtimeconfig.json
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\bin\Debug\net6.0-windows\WinFormsAppHomeW1.dll
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\bin\Debug\net6.0-windows\WinFormsAppHomeW1.pdb
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\obj\Debug\net6.0-windows\WinFormsAppHomeW1.csproj.AssemblyReference.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\obj\Debug\net6.0-windows\WinFormsAppHomeW1.Form1.resources
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\obj\Debug\net6.0-windows\WinFormsAppHomeW1.csproj.GenerateResource.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\obj\Debug\net6.0-windows\WinFormsAppHomeW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\obj\Debug\net6.0-windows\WinFormsAppHomeW1.AssemblyInfoInputs.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\obj\Debug\net6.0-windows\WinFormsAppHomeW1.AssemblyInfo.cs
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\obj\Debug\net6.0-windows\WinFormsAppHomeW1.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\obj\Debug\net6.0-windows\WinFormsAppHomeW1.dll
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\obj\Debug\net6.0-windows\refint\WinFormsAppHomeW1.dll
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\obj\Debug\net6.0-windows\WinFormsAppHomeW1.pdb
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\obj\Debug\net6.0-windows\WinFormsAppHomeW1.genruntimeconfig.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppHomeW1\WinFormsAppHomeW1\obj\Debug\net6.0-windows\ref\WinFormsAppHomeW1.dll

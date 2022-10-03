@@ -1,0 +1,17 @@
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\bin\Debug\net6.0-windows\WinFormsAppHVBnet1.exe
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\bin\Debug\net6.0-windows\WinFormsAppHVBnet1.deps.json
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\bin\Debug\net6.0-windows\WinFormsAppHVBnet1.runtimeconfig.json
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\bin\Debug\net6.0-windows\WinFormsAppHVBnet1.dll
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\bin\Debug\net6.0-windows\WinFormsAppHVBnet1.pdb
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\obj\Debug\net6.0-windows\WinFormsAppHVBnet1.vbproj.AssemblyReference.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\obj\Debug\net6.0-windows\WinFormsAppHVBnet1.Form1.resources
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\obj\Debug\net6.0-windows\WinFormsAppHVBnet1.vbproj.GenerateResource.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\obj\Debug\net6.0-windows\WinFormsAppHVBnet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\obj\Debug\net6.0-windows\WinFormsAppHVBnet1.AssemblyInfoInputs.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\obj\Debug\net6.0-windows\WinFormsAppHVBnet1.AssemblyInfo.vb
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\obj\Debug\net6.0-windows\WinFormsAppHVBnet1.vbproj.CoreCompileInputs.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\obj\Debug\net6.0-windows\WinFormsAppHVBnet1.dll
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\obj\Debug\net6.0-windows\refint\WinFormsAppHVBnet1.dll
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\obj\Debug\net6.0-windows\WinFormsAppHVBnet1.pdb
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\obj\Debug\net6.0-windows\WinFormsAppHVBnet1.genruntimeconfig.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppHVBnet1\WinFormsAppHVBnet1\obj\Debug\net6.0-windows\ref\WinFormsAppHVBnet1.dll
