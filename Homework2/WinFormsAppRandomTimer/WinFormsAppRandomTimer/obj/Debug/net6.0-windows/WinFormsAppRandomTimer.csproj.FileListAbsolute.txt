@@ -1,0 +1,34 @@
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\bin\Debug\net6.0-windows\WinFormsAppRandomTimer.exe
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\bin\Debug\net6.0-windows\WinFormsAppRandomTimer.deps.json
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\bin\Debug\net6.0-windows\WinFormsAppRandomTimer.runtimeconfig.json
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\bin\Debug\net6.0-windows\WinFormsAppRandomTimer.dll
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\bin\Debug\net6.0-windows\WinFormsAppRandomTimer.pdb
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.csproj.AssemblyReference.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.Form1.resources
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.csproj.GenerateResource.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.AssemblyInfoInputs.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.AssemblyInfo.cs
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.dll
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\refint\WinFormsAppRandomTimer.dll
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.pdb
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.genruntimeconfig.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\ref\WinFormsAppRandomTimer.dll
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\bin\Debug\net6.0-windows\WinFormsAppRandomTimer.exe
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\bin\Debug\net6.0-windows\WinFormsAppRandomTimer.deps.json
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\bin\Debug\net6.0-windows\WinFormsAppRandomTimer.runtimeconfig.json
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\bin\Debug\net6.0-windows\WinFormsAppRandomTimer.dll
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\bin\Debug\net6.0-windows\WinFormsAppRandomTimer.pdb
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.csproj.AssemblyReference.cache
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.Form1.resources
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.csproj.GenerateResource.cache
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.AssemblyInfoInputs.cache
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.AssemblyInfo.cs
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.dll
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\refint\WinFormsAppRandomTimer.dll
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.pdb
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\WinFormsAppRandomTimer.genruntimeconfig.cache
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework2\WinFormsAppRandomTimer\WinFormsAppRandomTimer\obj\Debug\net6.0-windows\ref\WinFormsAppRandomTimer.dll

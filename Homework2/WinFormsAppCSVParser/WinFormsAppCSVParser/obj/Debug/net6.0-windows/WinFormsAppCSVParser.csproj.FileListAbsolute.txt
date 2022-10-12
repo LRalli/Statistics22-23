@@ -1,0 +1,17 @@
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\bin\Debug\net6.0-windows\WinFormsAppCSVParser.exe
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\bin\Debug\net6.0-windows\WinFormsAppCSVParser.deps.json
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\bin\Debug\net6.0-windows\WinFormsAppCSVParser.runtimeconfig.json
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\bin\Debug\net6.0-windows\WinFormsAppCSVParser.dll
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\bin\Debug\net6.0-windows\WinFormsAppCSVParser.pdb
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\obj\Debug\net6.0-windows\WinFormsAppCSVParser.csproj.AssemblyReference.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\obj\Debug\net6.0-windows\WinFormsAppCSVParser.Form1.resources
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\obj\Debug\net6.0-windows\WinFormsAppCSVParser.csproj.GenerateResource.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\obj\Debug\net6.0-windows\WinFormsAppCSVParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\obj\Debug\net6.0-windows\WinFormsAppCSVParser.AssemblyInfoInputs.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\obj\Debug\net6.0-windows\WinFormsAppCSVParser.AssemblyInfo.cs
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\obj\Debug\net6.0-windows\WinFormsAppCSVParser.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\obj\Debug\net6.0-windows\WinFormsAppCSVParser.dll
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\obj\Debug\net6.0-windows\refint\WinFormsAppCSVParser.dll
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\obj\Debug\net6.0-windows\WinFormsAppCSVParser.pdb
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\obj\Debug\net6.0-windows\WinFormsAppCSVParser.genruntimeconfig.cache
+C:\Users\lorenzo.000\source\repos\WinFormsAppCSVParser\WinFormsAppCSVParser\obj\Debug\net6.0-windows\ref\WinFormsAppCSVParser.dll
