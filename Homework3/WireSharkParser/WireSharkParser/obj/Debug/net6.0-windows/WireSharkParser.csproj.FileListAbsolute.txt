@@ -1,0 +1,17 @@
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\bin\Debug\net6.0-windows\WireSharkParser.exe
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\bin\Debug\net6.0-windows\WireSharkParser.deps.json
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\bin\Debug\net6.0-windows\WireSharkParser.runtimeconfig.json
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\bin\Debug\net6.0-windows\WireSharkParser.dll
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\bin\Debug\net6.0-windows\WireSharkParser.pdb
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\obj\Debug\net6.0-windows\WireSharkParser.csproj.AssemblyReference.cache
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\obj\Debug\net6.0-windows\WireSharkParser.Form1.resources
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\obj\Debug\net6.0-windows\WireSharkParser.csproj.GenerateResource.cache
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\obj\Debug\net6.0-windows\WireSharkParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\obj\Debug\net6.0-windows\WireSharkParser.AssemblyInfoInputs.cache
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\obj\Debug\net6.0-windows\WireSharkParser.AssemblyInfo.cs
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\obj\Debug\net6.0-windows\WireSharkParser.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\obj\Debug\net6.0-windows\WireSharkParser.dll
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\obj\Debug\net6.0-windows\refint\WireSharkParser.dll
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\obj\Debug\net6.0-windows\WireSharkParser.pdb
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\obj\Debug\net6.0-windows\WireSharkParser.genruntimeconfig.cache
+C:\Users\lorenzo.000\Desktop\School\CyberSecurity\2. Statistics\Homework3\WireSharkParser\WireSharkParser\obj\Debug\net6.0-windows\ref\WireSharkParser.dll
