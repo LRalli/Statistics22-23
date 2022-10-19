@@ -6,3 +6,4 @@ Personal blog where the homeworks are uploaded: https://statsh2223.wordpress.com
 
 • Homework 2 (To be completed within 13/10) ✅
 
+• Homework 3 (To be completed within 20/10) ✅
